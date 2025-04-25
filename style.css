@@ -1,0 +1,41 @@
+#Bronze{
+    font-size: 20px; 
+    background-color: #fbff00; 
+    color: #000001;
+    text-align: left;
+}
+
+#Transicao{
+    font-size: 20px; 
+    background-color: #ffae00; 
+    color: #000001;
+    text-align: left;
+}
+
+#Media{
+    font-size: 20px; 
+    background-color: #ff4800; 
+    color: #000001;
+    text-align: left;
+}
+
+#Japao{
+    font-size: 20px; 
+    background-color: #cc00ff; 
+    color: #000001;
+    text-align: left;
+}
+
+#Guerra{
+    font-size: 20px; 
+    background-color: #7700ff; 
+    color: #000001;
+    text-align: left;
+}
+
+#Moderna{
+    font-size: 20px; 
+    background-color: #4c00ff; 
+    color: #000001;
+    text-align: left;
+}
